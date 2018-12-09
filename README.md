@@ -11,7 +11,7 @@ The specific objectives are as follows...
 1. Demonstrate delayed dask execution (reads, aggregations, etc...)
 2. Demonstrate Dask reading in multiple files at once.
 3. Construct 3 dask machine learning models
-a. Linear Regression
-b. Random Forest
-c. Kmeans Clustering
+- Linear Regression
+- Random Forest
+- Kmeans Clustering
 4. Use dask grid search to identify ideal parameters in parallel
